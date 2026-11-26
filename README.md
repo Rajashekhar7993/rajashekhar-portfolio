@@ -12,6 +12,9 @@ A responsive personal portfolio showcasing my skills, education, and selected pr
 - Transformer-Based Multilingual Language Identification
 - College Management Platform
 - Customer Sales Analysis
+- E-commerce Sales and Order Performance Analysis
+- Sales Data Analysis Dashboard
+- IPL Ball-by-Ball Data Analysis (2008–2023)
 
 ## Technologies
 
